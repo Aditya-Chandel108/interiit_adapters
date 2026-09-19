@@ -84,7 +84,7 @@ This is the main evaluation
 
 ---
 
-## 5. Possible next steps
+## 4. Possible next steps
 
 - Replace the keyword-presence generalization check with embedding-similarity
   or LLM-graded scoring for a less brittle signal.
